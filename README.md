@@ -1,8 +1,6 @@
-### Hi there! 👋
+<img align='center' src='https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif' width='890' height='300' />
 
-<img align='center' src='https://i.makeagif.com/media/8-01-2015/CVh1PZ.gif' width='890' height='300' />
-
-## I'm Abhilash M Nair.💖
+### Hi there! 👋, I'm Abhilash M Nair.💖
 
 - 👨 An aspiring engineer. 📚🔩
 - 😻 A cat lover.
@@ -29,8 +27,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abhilashmnair)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918156923584)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashmnair20@gmail.com)
-
-<br />
 
 ### Languages and Tools:
 
