@@ -55,13 +55,8 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/firebase.svg" />
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair&theme=dark" />
 
-<br />
-<br />
-
----
-
 <summary>:fire: Top Languages</summary>
-<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact&theme=dark" />
 
 [twitter]: https://twitter.com/abhilashmnair20
 [instagram]: https://instagram.com/abhilashmnair
