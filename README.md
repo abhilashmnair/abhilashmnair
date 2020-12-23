@@ -1,4 +1,4 @@
-<img align='center' src='https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif' width='800' height='200' />
+<img align='center' src='https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif' width='800' height='250' />
 
 ### Hi there! 👋, I'm Abhilash M Nair.💖
 
