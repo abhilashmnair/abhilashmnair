@@ -18,7 +18,7 @@
 
 ---
 
-![DJKitty](https://i.makeagif.com/media/8-01-2015/CVh1PZ.gif)
+![ProgrammerCat](https://media0.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
 
 ---
 
