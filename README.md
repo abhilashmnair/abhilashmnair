@@ -20,7 +20,7 @@
 
 #### Me after coding for hours 😑...
 
-<img align='center' src='https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif' width='600' height='250' />
+![DeadCat](https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif)
 
 ---
 
