@@ -29,6 +29,7 @@
 
 <br />
 ---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -50,11 +51,12 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/firebase.svg" />
 ![DJKitty](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/djcat.gif)
 
 ---
+
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair" />
 
 <summary>:fire: Top Languages</summary>
-<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact" />
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact" />
 
 [twitter]: https://twitter.com/abhilashmnair20
 [instagram]: https://instagram.com/abhilashmnair
