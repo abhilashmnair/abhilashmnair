@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-<img align='center' src='https://i.makeagif.com/media/8-01-2015/CVh1PZ.gif' />
+<img align='center' src='https://i.makeagif.com/media/8-01-2015/CVh1PZ.gif' width='890' height='300' />
 
 ## I'm Abhilash M Nair.💖
 
@@ -46,9 +46,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br />
-<br />
 
 ---
 
