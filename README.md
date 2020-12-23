@@ -18,9 +18,7 @@
 
 ---
 
-#### Me after coding for hours 😑...
-
-![DeadCat](https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif)
+![DJKitty](https://i.makeagif.com/media/8-01-2015/CVh1PZ.gif)
 
 ---
 
