@@ -14,11 +14,11 @@
 
 ### Spotify (Caution 💥: Heavy Bass Warning! ) 🎧🔥
 
-[<img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" alt="Abhilash Spotify Playing" width="350" />](https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
+[<img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" alt="Abhilash Spotify Playing" width="350" />(https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
 
 ---
 
-#Me after coding for hours 😑...
+##Me after coding for hours 😑...
 <img align='center' src='https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif' width='600' height='250' />
 
 ---
