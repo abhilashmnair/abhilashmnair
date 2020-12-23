@@ -4,7 +4,7 @@
 
 - 👨 An aspiring engineer. 📚🔩
 - 😻 A cat lover.
-- 🔭 From the God's Own Country - Kerala!🌴
+- 🔭 From God's Own Country - Kerala!🌴
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from other open source contributors.
 - 🎮 A normal gamer: PUBG, CS:GO, GTA and some Android ones.😄
@@ -20,12 +20,12 @@
 
 ### Connect with me:
 
-(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/linkedin.svg)](https://www.linkedin.com/in/abhilashmnair/) [![LinkedIn]
-(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/facebook.svg)](https://www.facebook.com/abhi.broz/)[![Facebook]
-(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/instagram.svg)](https://www.instagram.com/abhilashmnair) [![Instagram]
-(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/twitter.svg)](https://twitter.com/abhilashmnair20) [![Twitter]
-(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/telegram.svg)](https://t.me/abhilashmnair)[![Telegram]
-(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/whatsapp.svg)](https://wa.me/918156923584) [![Whatsapp]
+[![LinkedIn](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/linkedin.svg)](https://www.linkedin.com/in/abhilashmnair/)
+[![Facebook](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/facebook.svg)](https://www.facebook.com/abhi.broz/)
+[![Instagram](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/instagram.svg)](https://www.instagram.com/abhilashmnair)
+[![Twitter](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/twitter.svg)](https://twitter.com/abhilashmnair20)
+[![Telegram](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/telegram.svg)](https://t.me/abhilashmnair)
+[![Whatsapp](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/whatsapp.svg)](https://wa.me/918156923584)
 
 <br />
 ---
