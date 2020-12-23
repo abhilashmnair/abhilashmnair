@@ -3,16 +3,16 @@
 ### Hi there! 👋, I'm Abhilash M Nair.💖
 
 - 👨 An aspiring engineer. 📚🔩
-- 😻 A cat lover.
-- 🔭 From God's Own Country - Kerala!🌴
-- 👯 I’m looking to learn from other open source contributors.
+- 😻 A cat lover. 🐾
+- 🏞️ From God's Own Country - Kerala!🌴
+- 👯 I’m looking to learn from other open source contributors. 👥
 - 🎮 A normal gamer: PUBG, CS:GO, GTA and some Android ones.😄
 - ⚡ Loves to draw, do craftworks and gardening. 🌱
 - 🎧 Likes EDM and learning to use DAWs. ❤️🔥
 
 ---
 
-### Spotify (Warning ⚠️ : Heavy Bass!) 🎧🔥
+### Spotify 🎧🔥
 
 [<img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" alt="Abhilash Spotify Playing" width="350" />](https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
 
