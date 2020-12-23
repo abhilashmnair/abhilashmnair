@@ -5,7 +5,6 @@
 - 👨 An aspiring engineer. 📚🔩
 - 😻 A cat lover.
 - 🔭 From God's Own Country - Kerala!🌴
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from other open source contributors.
 - 🎮 A normal gamer: PUBG, CS:GO, GTA and some Android ones.😄
 - ⚡ Fun fact: I love to draw, do craftworks and also learning EDM production. 🎧
