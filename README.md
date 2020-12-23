@@ -1,27 +1,34 @@
-### Hi there, I'm Abhilash M Nair 👋
+### Hi there! 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/abhilashmnair20?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/abhilashmnair&screen_name=abhilashmnair20)
+## I'm Abhilash M Nair.💖
 
-## I'm a Student...and pretty much that it! 😝
-
-- 🔭 I am from the God's Own Country - Kerala!🌴
+- 👨 An aspiring engineer. 📚🔩
+- 😻 A cat lover.
+- 🔭 From the God's Own Country - Kerala!🌴
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from other open source contributors.
 - 🎮 A normal gamer: PUBG, CS:GO, GTA and some Android ones.😄
 - ⚡ Fun fact: I love to draw, do craftworks and also learning EDM production. 🎧
 
-### Spotify Addict 🎧🔥
+---
+
+### Spotify (Caution 💥: Heavy Bass Warning! ) 🎧🔥
 
 [<img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" alt="Abhilash Spotify Playing" width="350" />](https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
 
+---
+
 ### Connect with me:
 
-[<img align="left" alt="abhilashmnair20 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Abhilash M Nair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="abhilashmnair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/linkedin.svg)](https://www.linkedin.com/in/abhilashmnair/) [![LinkedIn]
+(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/facebook.svg)](https://www.facebook.com/abhi.broz/)[![Facebook]
+(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/instagram.svg)](https://www.instagram.com/abhilashmnair) [![Instagram]
+(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/twitter.svg)](https://twitter.com/abhilashmnair20) [![Twitter]
+(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/telegram.svg)](https://t.me/abhilashmnair)[![Telegram]
+(https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/whatsapp.svg)](https://wa.me/918156923584) [![Whatsapp]
 
 <br />
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -39,16 +46,15 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/firebase.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
-
+---
+![DJKitty](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/djcat.gif)
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair" />
-</details>
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact)](https://github.com/abhilashmnair/github-readme-stats)
+<summary>:fire: Top Languages</summary>
+<img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact" />
 
 [twitter]: https://twitter.com/abhilashmnair20
 [instagram]: https://instagram.com/abhilashmnair
