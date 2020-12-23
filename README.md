@@ -12,7 +12,7 @@
 
 ---
 
-### Spotify (Caution 💥: Heavy Bass Warning! ) 🎧🔥
+### Spotify (Warning ⚠️ : Heavy Bass!) 🎧🔥
 
 [<img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" alt="Abhilash Spotify Playing" width="350" />](https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
 
