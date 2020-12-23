@@ -7,7 +7,8 @@
 - 🔭 From God's Own Country - Kerala!🌴
 - 👯 I’m looking to learn from other open source contributors.
 - 🎮 A normal gamer: PUBG, CS:GO, GTA and some Android ones.😄
-- ⚡ Fun fact: I love to draw, do craftworks and also learning EDM production. 🎧
+- ⚡ Loves to draw, do craftworks and gardening. 🌱
+- 🎧 Likes EDM and learning to use DAWs. ❤️🔥
 
 ---
 
