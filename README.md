@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+![DJKitty](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/djcat.gif)
+
 ## I'm Abhilash M Nair.💖
 
 - 👨 An aspiring engineer. 📚🔩
@@ -28,7 +30,6 @@
 [![Whatsapp](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/whatsapp.svg)](https://wa.me/918156923584)
 
 <br />
----
 
 ### Languages and Tools:
 
@@ -50,8 +51,6 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/firebase.svg" />
 <br />
 
 ---
-
-![DJKitty](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/djcat.gif)
 
 <summary>:zap: GitHub Stats</summary>
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair" />
