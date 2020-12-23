@@ -22,12 +22,13 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/linkedin.svg)](https://www.linkedin.com/in/abhilashmnair/)
-[![Facebook](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/facebook.svg)](https://www.facebook.com/abhi.broz/)
-[![Instagram](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/instagram.svg)](https://www.instagram.com/abhilashmnair)
-[![Twitter](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/twitter.svg)](https://twitter.com/abhilashmnair20)
-[![Telegram](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/telegram.svg)](https://t.me/abhilashmnair)
-[![Whatsapp](https://raw.githubusercontent.com/abhilashmnair/abhilashmnair/master/img/whatsapp.svg)](https://wa.me/918156923584)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashmnair/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abhi.broz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhilashmnair)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhilashmnair20)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abhilashmnair)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918156923584)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashmnair20@gmail.com)
 
 <br />
 
@@ -52,15 +53,11 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@4.3.0/icons/firebase.svg" />
 
 ---
 
-<summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats :fire:</summary>
 
 <br/>
 
 <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair&theme=dark" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashmnair&layout=compact&theme=dark" />
 
 [twitter]: https://twitter.com/abhilashmnair20
 [instagram]: https://instagram.com/abhilashmnair
