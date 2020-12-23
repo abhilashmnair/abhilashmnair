@@ -1,4 +1,4 @@
-<img align='center' src='https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif' width='890' height='300' />
+<img align='center' src='https://steemitimages.com/DQmR1awnRgU41euwfayMt7vCNYqv7JJwy35rAn9HmNb34mk/cat_gif_1.gif' width='800' height='400' />
 
 ### Hi there! 👋, I'm Abhilash M Nair.💖
 
