@@ -18,7 +18,7 @@
 
 ---
 
-![ProgrammerCat](https://github.com/abhilashmnair/abhilashmnair/blob/main/programmercat.gif)
+<img src='https://github.com/abhilashmnair/abhilashmnair/blob/main/2TlB.gif' alt='NyanCat' width='800' height='300' />
 
 ---
 
