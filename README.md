@@ -1,4 +1,4 @@
-![Header](https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif)
+![Logo](https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif)
 
 ### Hi there! 👋, I'm Abhilash M Nair.💖
 
@@ -14,11 +14,11 @@
 
 ### Spotify 🎧🔥
 
-[<img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" alt="Abhilash Spotify Playing" width="350" />](https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
+[![Spotify]("https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing")](https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla)
 
 ---
 
-![ProgrammerCat](https://media0.giphy.com/media/aNqEFrYVnsS52/giphy.gif)
+![ProgrammerCat](https://github.com/abhilashmnair/abhilashmnair/blob/main/programmercat.gif)
 
 ---
 
