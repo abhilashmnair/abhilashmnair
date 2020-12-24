@@ -18,7 +18,7 @@
 
 ---
 
-<img src='https://github.com/abhilashmnair/abhilashmnair/blob/main/2TlB.gif' alt='NyanCat' width='800' height='300' />
+<img src='https://github.com/abhilashmnair/abhilashmnair/blob/main/2TlB.gif' alt='NyanCat' width='600' height='200' />
 
 ---
 
