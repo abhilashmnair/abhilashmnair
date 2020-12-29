@@ -46,15 +46,15 @@
 
 ---
 
-<details>
 
-<summary>:zap: GitHub Stats :fire:</summary>
 
-<br/>
 
-<img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abhilashmnair&theme=dark" />
 
-</details>
+
+
+
+
+
 
 [twitter]: https://twitter.com/abhilashmnair20
 [instagram]: https://instagram.com/abhilashmnair
