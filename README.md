@@ -40,19 +40,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-
-
-
-
-
-
-
-
-
-
-[twitter]: https://twitter.com/abhilashmnair20
-[instagram]: https://instagram.com/abhilashmnair
-[linkedin]: https://linkedin.com/in/codeSTACKr
