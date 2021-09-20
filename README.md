@@ -1,6 +1,6 @@
 ![Logo](https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif)
 
-### Hi there! 👋, I'm Abhilash M Nair.💖 ![](https://komarev.com/ghpvc/?username=abhilashmnair&color=purple)
+### Hi there! 👋, I'm Abhilash M Nair.💖 ![](https://komarev.com/ghpvc/?username=abhilashmnair)
 
 - 👨 An aspiring engineer. 📚🔩
 - 😻 A cat lover. 🐾
