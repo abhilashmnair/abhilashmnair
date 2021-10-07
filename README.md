@@ -14,7 +14,11 @@
 
 ### Spotify Now Playing
 
-<p align="center"><img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" width=100% /></p>
+<p align="center">
+  <a href="https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla">
+    <img src="https://spotify-now-playing-4aje9hpbn.vercel.app/api/spotify-playing" width=100% />
+  </a>
+</p>
 
 ---
 
