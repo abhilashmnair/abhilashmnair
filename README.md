@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 100% /> </p>
   
 
-## Hi there! 👋, I'm Abhilash M Nair.💖
+## Hi there! 👋<br>I'm Abhilash M Nair.💖
 
 - 👨 An aspiring engineer. 📚🔩
 - 😻 An Ailurophile. 🐾
