@@ -3,12 +3,10 @@
 
 ## Hi! I'm Abhilash 👋
 
-- 👨 An aspiring engineer. 📚🔩
-- 😻 An Ailurophile. 🐾
-- 🏞️ From God's Own Country - Kerala!🌴
-- 👯 Looking forward to learn from open source contributors. 👥
-- ⚡ Loves online gaming, art, gardening to name a few. 🌱
-- 🎧 EDM Lover. ❤️🔥
+- 👨 An aspiring engineer 📚🔩
+- 😻 Ailurophile & Melomaniac 🎧
+- 🏞️ From God's Own Country - Kerala🌴
+- 👯 Contributing to Open Source! 👥
 
 ---
 
