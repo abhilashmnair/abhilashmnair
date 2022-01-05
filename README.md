@@ -3,15 +3,8 @@
 <p align = "center">
   <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 100% />
 </p><br/>
-<p align = "center"><b> 👨 An aspiring engineer 📚🔩
-• 😻 Ailurophile & Melomaniac 🎧 <br/>
-• 🏞️ From God's Own Country - Kerala🌴
-• 👯 Contributing to Open Source! 👥
-</b></p><br>
 
 ---
-
-### Spotify Now Playing
 
 <p align="center">
   <a href="https://open.spotify.com/user/31nlsdxvptta5sp2l7gfngqbwmla" target="blank">
