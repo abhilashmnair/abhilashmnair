@@ -1,12 +1,13 @@
-<p align="center"> <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 80% /> </p>
-  
-
-## Hi! I'm Abhilash 👋
-
-- 👨 An aspiring engineer 📚🔩
-- 😻 Ailurophile & Melomaniac 🎧
-- 🏞️ From God's Own Country - Kerala🌴
-- 👯 Contributing to Open Source! 👥
+<h1 align="center">  Hi! I'm Abhilash 👋 </h1>
+<p align = "center"><b> :zap: NEVER FAKE YOUR TASTES TO IMPRESS SOMEONE. :zap:</b></p><br>
+<p align = "center">
+  <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 100% />
+</p><br/>
+<p align = "center"><b> 👨 An aspiring engineer 📚🔩
+• 😻 Ailurophile & Melomaniac 🎧 <br/>
+• 🏞️ From God's Own Country - Kerala🌴
+• 👯 Contributing to Open Source! 👥
+</b></p><br>
 
 ---
 
