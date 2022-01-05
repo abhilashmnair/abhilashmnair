@@ -1,8 +1,6 @@
-<h1 align="center">  Hi! I'm Abhilash 👋 </h1>
-<p align = "center"><b> :zap: NEVER FAKE YOUR TASTES TO IMPRESS SOMEONE. :zap:</b></p><br>
 <p align = "center">
   <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 100% />
-</p><br/>
+</p>
 
 ---
 
