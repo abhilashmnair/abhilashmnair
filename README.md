@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 100% /> </p>
+<p align="center"> <img src="https://github.com/abhilashmnair/abhilashmnair/blob/main/logo.gif" width = 80% /> </p>
   
 
 ## Hi! I'm Abhilash 👋
