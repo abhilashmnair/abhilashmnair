@@ -17,7 +17,6 @@
   ### Connect with me:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilashmnair/)
   [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/abhilashmnair)
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918156923584)
-  [![Spotify](https://img.shields.io/badge/Instagram-black?&style=for-the-badge&logo=instagram&logoColor=#8a3ab9)](https://instagram.com/abhilashmnair/)
+  [![Instagram](https://img.shields.io/badge/Instagram-962fbf?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhilashmnair/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashmnair20@gmail.com)
 </section>
